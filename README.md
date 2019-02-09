@@ -1,6 +1,8 @@
 ## How to run
 
 - `npm install` - install all dependencies
+- `sudo mkdir -p /data/db` (if you do not have a local database)
+- `mongod`
 - `npm start` - start the server
 
 ## Services (routes)
